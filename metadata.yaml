@@ -1,0 +1,36 @@
+_repo: Korven-kulkuri-b-Lukuja-luonnon-kirjasta_71583
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Enkvist, Hertta
+    gutenberg_agent_id: '56294'
+    url: http://www.gutenberg.org/2009/agents/56294
+creator:
+  author:
+    agent_name: Roberts, Charles G. D., Sir
+    aliases:
+    - Roberts, Sir Charles George Douglas
+    - Roberts, Charles George Douglas, Sir
+    - Roberts, Sir Charles G. D.
+    birthdate: 1860
+    deathdate: 1943
+    gutenberg_agent_id: '2272'
+    url: http://www.gutenberg.org/2009/agents/2272
+    wikipedia: https://en.wikipedia.org/wiki/Charles_G._D._Roberts
+description: ''
+gutenberg_issued: '2023-09-07'
+identifiers:
+  gutenberg: '71583'
+language: fi
+pgterms:marc905: 20210911012528roberts
+pgterms:marc906: '1918'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto Oy, $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Korven kulkuri : $b Lukuja luonnon kirjasta'
+url: http://www.gutenberg.org/ebooks/71583

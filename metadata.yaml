@@ -5,6 +5,9 @@ contributor:
     agent_name: Enkvist, Hertta
     gutenberg_agent_id: '56294'
     url: http://www.gutenberg.org/2009/agents/56294
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Roberts, Charles G. D., Sir
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2272
     wikipedia: https://en.wikipedia.org/wiki/Charles_G._D._Roberts
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71583#Korven-kulkuri-b-Lukuja-luonnon-kirjasta
 gutenberg_issued: '2023-09-07'
 identifiers:
   gutenberg: '71583'
